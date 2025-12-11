@@ -1,7 +1,6 @@
 {
-    "private": true,
-    "name": "@types/jest-image-snapshot",
-    "version": "6.4.9999",
+    "name": "@dword-design/types-jest-image-snapshot",
+    "version": "0.0.1",
     "projects": [
         "https://github.com/americanexpress/jest-image-snapshot#readme"
     ],
